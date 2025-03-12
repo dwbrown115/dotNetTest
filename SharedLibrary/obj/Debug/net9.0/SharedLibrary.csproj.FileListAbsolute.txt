@@ -1,0 +1,12 @@
+/workspaces/.netTest/SharedLibrary/bin/Debug/net9.0/SharedLibrary.deps.json
+/workspaces/.netTest/SharedLibrary/bin/Debug/net9.0/SharedLibrary.dll
+/workspaces/.netTest/SharedLibrary/bin/Debug/net9.0/SharedLibrary.pdb
+/workspaces/.netTest/SharedLibrary/obj/Debug/net9.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.netTest/SharedLibrary/obj/Debug/net9.0/SharedLibrary.AssemblyInfoInputs.cache
+/workspaces/.netTest/SharedLibrary/obj/Debug/net9.0/SharedLibrary.AssemblyInfo.cs
+/workspaces/.netTest/SharedLibrary/obj/Debug/net9.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/workspaces/.netTest/SharedLibrary/obj/Debug/net9.0/SharedLibrary.sourcelink.json
+/workspaces/.netTest/SharedLibrary/obj/Debug/net9.0/SharedLibrary.dll
+/workspaces/.netTest/SharedLibrary/obj/Debug/net9.0/refint/SharedLibrary.dll
+/workspaces/.netTest/SharedLibrary/obj/Debug/net9.0/SharedLibrary.pdb
+/workspaces/.netTest/SharedLibrary/obj/Debug/net9.0/ref/SharedLibrary.dll
