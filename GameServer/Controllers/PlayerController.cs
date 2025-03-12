@@ -1,3 +1,4 @@
+using GameServer.Services;
 using Microsoft.AspNetCore.Mvc;
 using SharedLibrary;
 
@@ -7,10 +8,19 @@ namespace GameServer.Controllers;
 [Route("[controller]")]
 public class PlayerController : ControllerBase
 {
+    private readonly PlayerService _playerService;
+
+    public PlayerController(PlayerService playerService)
+    {
+        _playerService = playerService;
+    }
+
     [HttpGet("{id}")]
     public Player Get([FromRoute] string id)
     {
         var player = new Player() { Id = id };
+
+        _playerService.DoSomething();
 
         return player;
     }
