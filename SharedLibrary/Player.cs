@@ -2,7 +2,7 @@
 
 public class Player
 {
-    public string Id { get; set; }
-    public string Name { get; set; }
-    public float score { get; set; }
+    public required string Id;
+    public string Name = "Blank";
+    public float score;
 }

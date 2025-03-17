@@ -1,9 +1,12 @@
+using GameServer.Services;
+using Newtonsoft.Json.Serialization;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddNewtonsoftJson(o => o.SerializerSettings.ContractResolver = new DefaultContractResolver());
 
-builder.Services.AddScoped<GameServer.Services.PlayerService>();
+builder.Services.AddScoped<GameServer.Services.IPlayerService, PlayerService>();
 
 var app = builder.Build();
 
