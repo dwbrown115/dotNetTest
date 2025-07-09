@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/.netTest/SharedLibrary/SharedLibrary.csproj": {}
+    "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/SharedLibrary/SharedLibrary.csproj": {}
   },
   "projects": {
-    "/workspaces/.netTest/SharedLibrary/SharedLibrary.csproj": {
+    "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/SharedLibrary/SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/.netTest/SharedLibrary/SharedLibrary.csproj",
+        "projectUniqueName": "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/SharedLibrary/SharedLibrary.csproj",
         "projectName": "SharedLibrary",
-        "projectPath": "/workspaces/.netTest/SharedLibrary/SharedLibrary.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/.netTest/SharedLibrary/obj/",
+        "projectPath": "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/SharedLibrary/SharedLibrary.csproj",
+        "packagesPath": "/Users/dakotabrown/.nuget/packages/",
+        "outputPath": "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/SharedLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/dakotabrown/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

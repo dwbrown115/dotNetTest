@@ -210,32 +210,33 @@
     ]
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "/Users/dakotabrown/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/.netTest/GameServer/GameServer.csproj",
+      "projectUniqueName": "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/GameServer/GameServer.csproj",
       "projectName": "GameServer",
-      "projectPath": "/workspaces/.netTest/GameServer/GameServer.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/.netTest/GameServer/obj/",
+      "projectPath": "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/GameServer/GameServer.csproj",
+      "packagesPath": "/Users/dakotabrown/.nuget/packages/",
+      "outputPath": "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/GameServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "/Users/dakotabrown/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/workspaces/.netTest/SharedLibrary/SharedLibrary.csproj": {
-              "projectPath": "/workspaces/.netTest/SharedLibrary/SharedLibrary.csproj"
+            "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/SharedLibrary/SharedLibrary.csproj": {
+              "projectPath": "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/SharedLibrary/SharedLibrary.csproj"
             }
           }
         }
@@ -280,7 +281,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

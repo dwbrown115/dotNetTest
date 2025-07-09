@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wjb19OLxmEQ=",
+  "dgSpecHash": "26beXE1C5oE=",
   "success": true,
-  "projectFilePath": "/workspaces/.netTest/SharedLibrary/SharedLibrary.csproj",
+  "projectFilePath": "/Users/dakotabrown/Desktop/CodingProjects/dotnetTest/SharedLibrary/SharedLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
